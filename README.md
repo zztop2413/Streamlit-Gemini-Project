@@ -1,5 +1,12 @@
 # 📝 Note Summary & Quiz Generator
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://note-generator-gemini.streamlit.app)
+[![Deployed on Streamlit Cloud](https://img.shields.io/badge/Deployed%20on-Streamlit%20Cloud-FF4B4B?logo=streamlit)](https://note-generator-gemini.streamlit.app)
+
+🔗 **Try it now**: https://note-generator-gemini.streamlit.app
+
 A Streamlit-powered web application that transforms images of notes into structured **Bangla summaries**, converts them to **natural-sounding audio**, and generates **customized quiz questions** based on your preferred difficulty level.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
